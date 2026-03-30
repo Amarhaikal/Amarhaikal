@@ -33,12 +33,6 @@ I am a Software Developer with 3 years of experience building enterprise applica
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amarhaikal&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarhaikal&layout=compact&theme=transparent)
-
----
-
 ### 📜 Certifications
 - **Meta Front-End Developer** 
 - **Microsoft Back-End Development with .NET**
@@ -46,4 +40,4 @@ I am a Software Developer with 3 years of experience building enterprise applica
 ---
 
 ### 🤝 Let's Connect!
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amar-haikal-b6a175251/)
