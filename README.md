@@ -34,10 +34,8 @@ I am a Software Developer with 3 years of experience building enterprise applica
 ---
 
 ### 📊 GitHub Stats
-*(Don't forget to change `YOUR_USERNAME` to your actual GitHub username below!)*
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amarhaikal&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarhaikal&layout=compact&theme=transparent)
 
 ---
 
